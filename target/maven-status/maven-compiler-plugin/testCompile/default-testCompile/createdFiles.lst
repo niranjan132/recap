@@ -1,0 +1,9 @@
+pages\LoginPage.class
+handleSync\HandleSyncIssue.class
+testNgExample\WindowHandle.class
+testNgExample\HRMLoginPriority.class
+testNgExample\JavaScriptDemo.class
+testNgExample\Logger4jDemo.class
+testNgExample\ActionClassDemo.class
+handleSync\BaseTest.class
+handleSync\ReadConfig.class

@@ -1,0 +1,111 @@
+2022-10-26 22:13:05,213 - IBM_Login_Module -INFO - launching chrome browser....
+2022-10-26 22:13:08,717 - IBM_Login_Module -INFO - app url s:null
+2022-10-26 22:14:13,344 - IBM_Login_Module -INFO - launching chrome browser....
+2022-10-26 22:14:15,973 - IBM_Login_Module -INFO - app url s:https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-26 22:14:17,019 - IBM_Login_Module -INFO - Clear text from userName field
+2022-10-26 22:14:17,106 - IBM_Login_Module -INFO - enter username: null
+2022-10-26 22:14:17,140 - IBM_Login_Module -INFO - app title is:Your store. Login
+2022-10-26 22:14:17,141 - IBM_Login_Module -INFO - Click on logout button.
+2022-10-26 22:14:32,194 - IBM_Login_Module -INFO - closing browser
+2022-10-26 22:18:32,578 - IBM_Login_Module -INFO - launching chrome browser....
+2022-10-26 22:18:35,319 - IBM_Login_Module -INFO - app url is:https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-26 22:18:36,369 - IBM_Login_Module -INFO - Clear text from userName field
+2022-10-26 22:18:36,449 - IBM_Login_Module -INFO - enter username: null
+2022-10-26 22:18:36,478 - IBM_Login_Module -INFO - app title is:Your store. Login
+2022-10-26 22:18:36,490 - IBM_Login_Module -INFO - Click on logout button.
+2022-10-26 22:18:54,225 - IBM_Login_Module -INFO - closing browser
+2022-10-26 22:19:45,278 - IBM_Login_Module -INFO - launching chrome browser....
+2022-10-26 22:19:48,372 - IBM_Login_Module -INFO - app url is:https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-26 22:19:49,445 - IBM_Login_Module -INFO - Clear text from userName field
+2022-10-26 22:19:49,534 - IBM_Login_Module -INFO - enter username: null
+2022-10-26 22:19:49,564 - IBM_Login_Module -INFO - app title is:Your store. Login
+2022-10-26 22:19:49,585 - IBM_Login_Module -INFO - Click on logout button.
+2022-10-26 22:20:04,652 - IBM_Login_Module -INFO - closing browser
+2022-10-26 22:22:19,612 - IBM_Login_Module -INFO - launching chrome browser....
+2022-10-26 22:22:22,354 - IBM_Login_Module -INFO - app url is:https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-26 22:22:23,366 - IBM_Login_Module -INFO - Clear text from userName field
+2022-10-26 22:22:23,367 - IBM_Login_Module -INFO - enter username: null
+2022-10-26 22:22:23,403 - IBM_Login_Module -INFO - app title is:Your store. Login
+2022-10-26 22:22:23,419 - IBM_Login_Module -INFO - Click on logout button.
+2022-10-26 22:22:38,512 - IBM_Login_Module -INFO - closing browser
+2022-10-26 22:28:35,215 - IBM_Login_Module -INFO - launching chrome browser....
+2022-10-26 22:28:37,923 - IBM_Login_Module -INFO - app url is:https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-26 22:28:38,937 - IBM_Login_Module -INFO - Clear text from userName field
+2022-10-26 22:28:38,937 - IBM_Login_Module -INFO - enter username: admin@yourstore.com
+2022-10-26 22:28:39,078 - IBM_Login_Module -INFO - Clear text from password field
+2022-10-26 22:28:39,158 - IBM_Login_Module -INFO - enter username: admin
+2022-10-26 22:28:39,237 - IBM_Login_Module -INFO - click on Login Button
+2022-10-26 22:28:39,344 - IBM_Login_Module -INFO - app title is:Your store. Login
+2022-10-26 22:28:39,354 - IBM_Login_Module -INFO - Click on logout button.
+2022-10-26 22:28:53,261 - IBM_Login_Module -INFO - closing browser
+2022-10-26 22:28:54,331 - IBM_Login_Module -INFO - launching chrome browser....
+2022-10-26 22:28:57,720 - IBM_Login_Module -INFO - app url is:https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-26 22:28:58,766 - IBM_Login_Module -INFO - Clear text from userName field
+2022-10-26 22:28:58,887 - IBM_Login_Module -INFO - enter username: admin@yourstore.com
+2022-10-26 22:28:59,019 - IBM_Login_Module -INFO - Clear text from password field
+2022-10-26 22:28:59,110 - IBM_Login_Module -INFO - enter username: admin
+2022-10-26 22:28:59,193 - IBM_Login_Module -INFO - click on Login Button
+2022-10-26 22:29:02,152 - IBM_Login_Module -INFO - app title is:Dashboard / nopCommerce administration
+2022-10-26 22:29:02,164 - IBM_Login_Module -INFO - Click on logout button.
+2022-10-26 22:29:08,235 - IBM_Login_Module -INFO - closing browser
+2022-10-27 20:49:55,981 - IBM_Login_Module -INFO - launching chrome browser....
+2022-10-27 20:50:03,866 - IBM_Login_Module -INFO - app url is:https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 20:50:20,111 - IBM_Login_Module -INFO - closing browser
+2022-10-27 20:53:36,907 - IBM_Login_Module -INFO - launching chrome browser....
+2022-10-27 20:53:52,481 - IBM_Login_Module -INFO - app url is:https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 20:54:10,211 - IBM_Login_Module -INFO - closing browser
+2022-10-27 21:20:38,802 - IBM_Login_Module -INFO - launching chrome browser....
+2022-10-27 21:20:45,024 - IBM_Login_Module -INFO - app url is:https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 21:21:05,011 - IBM_Login_Module -INFO - launching chrome browser....
+2022-10-27 21:21:07,226 - IBM_Login_Module -INFO - closing browser
+2022-10-27 21:21:08,478 - IBM_Login_Module -INFO - app url is:https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 21:21:18,543 - IBM_Login_Module -INFO - closing browser
+2022-11-01 20:56:36,258 - IBM_Login_Module -INFO - launching chrome browser....
+2022-11-01 20:56:43,627 - IBM_Login_Module -INFO - app url is:https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-01 20:57:09,486 - IBM_Login_Module -INFO - closing browser
+2022-11-01 21:06:41,677 - IBM_Login_Module -INFO - launching chrome browser....
+2022-11-01 21:06:56,766 - IBM_Login_Module -INFO - app url is:https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-01 21:06:56,781 - IBM_Login_Module -INFO - Clear text from userName field
+2022-11-01 21:07:07,073 - IBM_Login_Module -INFO - app title is:IRCTC Next Generation eTicketing System
+2022-11-01 21:07:07,094 - IBM_Login_Module -INFO - Click on logout button.
+2022-11-01 21:07:22,158 - IBM_Login_Module -INFO - closing browser
+2022-11-01 21:07:57,362 - IBM_Login_Module -INFO - launching chrome browser....
+2022-11-01 21:08:01,366 - IBM_Login_Module -INFO - app url is:https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-01 21:08:02,560 - IBM_Login_Module -INFO - Clear text from userName field
+2022-11-01 21:08:02,684 - IBM_Login_Module -INFO - enter username: admin@yourstore.com
+2022-11-01 21:08:02,902 - IBM_Login_Module -INFO - Clear text from password field
+2022-11-01 21:08:03,059 - IBM_Login_Module -INFO - enter username: admin
+2022-11-01 21:08:03,169 - IBM_Login_Module -INFO - click on Login Button
+2022-11-01 21:08:07,052 - IBM_Login_Module -INFO - app title is:Dashboard / nopCommerce administration
+2022-11-01 21:08:07,062 - IBM_Login_Module -INFO - Click on logout button.
+2022-11-01 21:08:13,242 - IBM_Login_Module -INFO - closing browser
+2022-11-01 22:07:16,285 - IBM_Login_Module -INFO - launching chrome browser....
+2022-11-01 22:07:19,531 - IBM_Login_Module -INFO - app url is:https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-01 22:07:20,584 - IBM_Login_Module -INFO - Clear text from userName field
+2022-11-01 22:07:20,668 - IBM_Login_Module -INFO - enter username: admin@yourstore.com
+2022-11-01 22:07:20,775 - IBM_Login_Module -INFO - Clear text from password field
+2022-11-01 22:07:20,851 - IBM_Login_Module -INFO - enter username: admin
+2022-11-01 22:07:20,925 - IBM_Login_Module -INFO - click on Login Button
+2022-11-01 22:07:23,224 - IBM_Login_Module -INFO - app title is:Dashboard / nopCommerce administration
+2022-11-01 22:07:23,238 - IBM_Login_Module -INFO - Click on logout button.
+2022-11-01 22:07:29,770 - IBM_Login_Module -INFO - closing browser
+2022-11-01 22:09:43,616 - IBM_Login_Module -INFO - launching chrome browser....
+2022-11-01 22:09:46,210 - IBM_Login_Module -INFO - app url is:https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-01 22:09:47,295 - IBM_Login_Module -INFO - Clear text from userName field
+2022-11-01 22:09:47,411 - IBM_Login_Module -INFO - enter username: admin@yourstore.com
+2022-11-01 22:09:47,568 - IBM_Login_Module -INFO - Clear text from password field
+2022-11-01 22:09:47,652 - IBM_Login_Module -INFO - enter username: admin
+2022-11-01 22:09:47,743 - IBM_Login_Module -INFO - click on Login Button
+2022-11-01 22:09:50,742 - IBM_Login_Module -INFO - app title is:Dashboard / nopCommerce administration
+2022-11-01 22:09:50,758 - IBM_Login_Module -INFO - Click on logout button.
+2022-11-01 22:09:58,041 - IBM_Login_Module -INFO - closing browser
+2022-11-01 22:17:56,576 - IBM_Login_Module -INFO - launching chrome browser....
+2022-11-01 22:17:59,485 - IBM_Login_Module -INFO - app url is:https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-01 22:18:00,546 - IBM_Login_Module -INFO - Clear text from userName field
+2022-11-01 22:18:00,665 - IBM_Login_Module -INFO - enter username: admin@yourstore.com
+2022-11-01 22:18:00,767 - IBM_Login_Module -INFO - Clear text from password field
+2022-11-01 22:18:00,850 - IBM_Login_Module -INFO - enter username: admin
+2022-11-01 22:18:00,933 - IBM_Login_Module -INFO - click on Login Button
+2022-11-01 22:18:04,165 - IBM_Login_Module -INFO - app title is:Dashboard / nopCommerce administration
+2022-11-01 22:18:04,176 - IBM_Login_Module -INFO - Click on logout button.
+2022-11-01 22:18:11,122 - IBM_Login_Module -INFO - closing browser
